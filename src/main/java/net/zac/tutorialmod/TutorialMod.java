@@ -13,6 +13,7 @@ import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.zac.tutorialmod.block.ModBlocks;
 import net.zac.tutorialmod.item.ModCreativeModTabs;
 import net.zac.tutorialmod.item.ModItems;
 import org.slf4j.Logger;
@@ -35,6 +36,9 @@ public class TutorialMod
 
         // Initializes the item mods
         ModItems.register(modEventBus);
+
+        // Initialized the block mods
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
