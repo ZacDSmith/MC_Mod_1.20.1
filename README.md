@@ -1,1 +1,1 @@
-Two branches reside here. Master if for on going development and the setup branch is the base code setup for future mods.
+Two branches reside here. Master is for on going development. The setup branch is the base code for future mods.
