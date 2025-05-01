@@ -1,1 +1,1 @@
-Master branch is only for storing the setup. Other branches will house the mods.
+This is the branch that houses the setup for new mods.
