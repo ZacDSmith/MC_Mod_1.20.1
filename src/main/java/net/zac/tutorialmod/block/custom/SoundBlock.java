@@ -27,7 +27,7 @@ public class SoundBlock extends Block {
     public InteractionResult use(BlockState pState, Level pLevel, BlockPos pPos,
                                  Player pPlayer, InteractionHand pHand, BlockHitResult pHit) {
 
-        pLevel.playSound(pPlayer, pPos, SoundEvents.GHAST_WARN, SoundSource.BLOCKS,
+        pLevel.playSound(pPlayer, pPos, SoundEvents.CREEPER_PRIMED, SoundSource.BLOCKS,
                 1f, 1f);
         return InteractionResult.SUCCESS;
     }
