@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "L": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "tutorialmod:sapphire"
+    }
+  },
+  "pattern": [
+    " SS",
+    " L ",
+    " L "
+  ],
+  "result": {
+    "item": "tutorialmod:sapphire_hoe"
+  },
+  "show_notification": true
+}
