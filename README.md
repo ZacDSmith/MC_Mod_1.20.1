@@ -1,1 +1,1 @@
-Two branches reside here. Master is for on going development. The setup branch is the base code for future mods.
+This is an ongoing project for learning how to mod minecraft. Everything found in this repo is from a very good tutorial that can be found [here](https://www.youtube.com/watch?v=55qUIf3GMss&list=PLKGarocXCE1H9Y21-pxjt5Pt8bW14twa-&index=1&ab_channel=ModdingbyKaupenjoe) 
